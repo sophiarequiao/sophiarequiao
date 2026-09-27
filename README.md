@@ -1,4 +1,5 @@
 <br />
+
 ## 👨🏻‍💻 &nbsp;About Me
 
 <p>👋 &nbsp;Hi! I'm <strong>Sophia Requião</strong>, a Computer Engineering graduate from the <strong>University of Málaga</strong>, originally from <strong>Brazil 🇧🇷</strong>.</p> 
