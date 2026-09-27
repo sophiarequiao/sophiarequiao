@@ -9,7 +9,7 @@
 
 <p>👋 &nbsp;Hi! I'm <strong>Sophia Requião</strong>, a Computer Engineering graduate from the <strong>University of Málaga</strong>, originally from <strong>Brazil 🇧🇷</strong>.</p> 
 
-<p>🎓 &nbsp; I graduated with a <strong>degree in Computer Engineering</strong> from the <strong>University of Málaga</strong> in 2026 and I'm currently pursuing a <strong>Higher Technician in Web Application Development (DAW)</strong>, continuing to expand my knowledge and strengthen my skills in software development.</p>
+<p>🎓 &nbsp; I graduated with a <strong>degree in Computer Engineering</strong> from the <strong>University of Málaga</strong> in 2026 and I'm currently pursuing a <strong>Higher Technician in Web Application Development </strong>, continuing to expand my knowledge and strengthen my skills in software development.</p>
 
 <p>🌍 &nbsp;During my academic journey, I also had the opportunity to study at the <strong>Norwegian University of Science and Technology (NTNU)</strong> for six months, gaining experience in an international academic environment.</p> 
 
