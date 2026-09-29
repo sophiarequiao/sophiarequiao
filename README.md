@@ -1,3 +1,4 @@
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 <p align="center">
 	<a href="www.linkedin.com/in/sophia-r-001052283">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
