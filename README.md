@@ -1,6 +1,7 @@
 <p align="center">
-	![rickAndMorty](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0dm9xZnZjZXFwZmJkODBqYnA2amRhNzRuZXQxN2hwajhsc253MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFtGDTXTNr4Z3uG4St/giphy.gif)
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0dm9xZnZjZXFwZmJkODBqYnA2amRhNzRuZXQxN2hwajhsc253MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFtGDTXTNr4Z3uG4St/giphy.gif" alt="Rick and Morty">
 </p>
+
 
 <p align="center">
 	<a href="www.linkedin.com/in/sophia-r-001052283">
