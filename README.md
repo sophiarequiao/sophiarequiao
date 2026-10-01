@@ -32,7 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
 
 
 ### 🗄️ &nbsp;Databases
