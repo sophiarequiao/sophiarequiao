@@ -31,8 +31,9 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=ED8B00)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=haskell&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
+![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=haskell&logoColor=5D4F85)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)&nbsp;
+
 
 
 ### 🗄️ &nbsp;Databases
